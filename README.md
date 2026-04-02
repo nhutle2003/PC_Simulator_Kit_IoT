@@ -140,7 +140,7 @@ Tải và chạy phần mềm **PC Simulator KIT IoT** để:
 
 ## 🔄 Phiên bản trước
 
-👉 Smart_Touch_Switch_Simulator (không có giao tiếp PC)(https://github.com/nhutle2003/Smart_Touch_Switch_Simulator)
+[👉 Smart_Touch_Switch_Simulator (không có giao tiếp PC)](https://github.com/nhutle2003/Smart_Touch_Switch_Simulator)
 ---
 
 ## 📷 Demo
