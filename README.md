@@ -8,31 +8,7 @@ Hệ thống cho phép:
 
 * Giám sát dữ liệu môi trường theo thời gian thực
 * Điều khiển thiết bị từ máy tính
-  → Mô phỏng một hệ thống **IoT hoàn chỉnh (Device ↔ Host)** tương tự ứng dụng trên điện thoại.
-
----
-
-## 🏗 Kiến trúc hệ thống
-
-<p align="center">
-  <img src="docs/images/system_architecture.png" width="600"/>
-</p>
-
----
-
-## 🔄 Luồng hoạt động hệ thống
-
-<p align="center">
-  <img src="docs/images/system_flow.png" width="600"/>
-</p>
-
----
-
-## 📡 Giao tiếp UART
-
-<p align="center">
-  <img src="docs/images/uart_protocol.png" width="600"/>
-</p>
+* Mô phỏng một hệ thống **IoT hoàn chỉnh (Device ↔ Host)** tương tự ứng dụng trên điện thoại
 
 ---
 
@@ -164,13 +140,10 @@ Tải và chạy phần mềm **PC Simulator KIT IoT** để:
 
 ## 🔄 Phiên bản trước
 
-👉 Smart_Touch_Switch_Simulator (không có giao tiếp PC)
-
+👉 Smart_Touch_Switch_Simulator (không có giao tiếp PC)(https://github.com/nhutle2003/Smart_Touch_Switch_Simulator)
 ---
 
 ## 📷 Demo
+[Video](https://drive.google.com/file/d/12mWk-7TdWsPYDsIJB7_ZHfGfsjut1vF8/view?usp=sharing)
 
-(Thêm ảnh hoặc video demo tại đây)
-
----
-
+Le Minh Nhut
