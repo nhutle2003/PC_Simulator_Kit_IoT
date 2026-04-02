@@ -1,0 +1,14 @@
+../Src/TouchSwitch_MCU_V1.0.1.c:65:6:ButtonHadle	1
+../Src/TouchSwitch_MCU_V1.0.1.c:71:6:LedHandle	2
+../Src/TouchSwitch_MCU_V1.0.1.c:89:6:BuzzerHandle	2
+../Src/TouchSwitch_MCU_V1.0.1.c:98:6:LcdHandle	1
+../Src/TouchSwitch_MCU_V1.0.1.c:110:5:main	1
+../Src/TouchSwitch_MCU_V1.0.1.c:147:13:AppStateManager	3
+../Src/TouchSwitch_MCU_V1.0.1.c:169:13:SetStateApp	1
+../Src/TouchSwitch_MCU_V1.0.1.c:174:20:GetStateApp	1
+../Src/TouchSwitch_MCU_V1.0.1.c:180:6:DeviceStateMachine	13
+../Src/TouchSwitch_MCU_V1.0.1.c:241:6:Increase_LedLevel	1
+../Src/TouchSwitch_MCU_V1.0.1.c:247:6:Decrease_LedLevel	1
+../Src/TouchSwitch_MCU_V1.0.1.c:253:5:Clamp	3
+../Src/TouchSwitch_MCU_V1.0.1.c:262:6:Task_multiSensorScan	1
+../Src/TouchSwitch_MCU_V1.0.1.c:277:6:MultiSensorScan	2
