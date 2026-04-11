@@ -147,3 +147,4 @@ Tải và chạy phần mềm **PC Simulator KIT IoT** để:
 [Video](https://drive.google.com/file/d/12mWk-7TdWsPYDsIJB7_ZHfGfsjut1vF8/view?usp=sharing)
 
 Le Minh Nhut
+## Chuc nang 1
