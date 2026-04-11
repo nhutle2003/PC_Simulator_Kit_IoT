@@ -148,4 +148,8 @@ Tải và chạy phần mềm **PC Simulator KIT IoT** để:
 
 Le Minh Nhut
 
+
+
+
+
 ## Chuc nang 2
